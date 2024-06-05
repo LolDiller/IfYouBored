@@ -1,0 +1,39 @@
+header{
+    height: 150px;
+    background-color: rgb(29, 29, 29);
+    text-align: center;
+    color: rgb(224, 224, 224);
+    padding: 25px;
+    font-style: italic;
+    font-size: 35px;
+}
+
+body{
+    margin: 0%;
+    background-image: url(https://i.pinimg.com/originals/1b/61/77/1b617769889474550ebe28714be91839.jpg);
+}
+
+main{
+    height: 1000px;
+    background-color: rgb(29, 29, 29);
+    margin: 0px;
+    text-align:left;
+    color: rgb(224, 224, 224);
+    text-decoration: wavy;
+    background-size: cover;
+    font-size: 25px;
+}
+h2{font-size: 30px;}
+.ImgSocial img{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    height: 200px;
+    background-color: rgb(114, 78, 0);
+    color: rgb(224, 224, 224);
+    padding-left: 45px;
+    padding: 45px;
+}
